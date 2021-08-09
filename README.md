@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ZaminSayan.
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning Full Stack Development.
-- 💞️ I’m looking to collaborate on Netflix Clone.
-- 📫 Reach me using Gmail.
+- 💞️ I’m looking to collaborate on RafBook Clone.
+- 📫 Reach me using Gmail.(mohamadzaminsayan@gmail.com)
 
 <!---
 ZaminSayan/ZaminSayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
