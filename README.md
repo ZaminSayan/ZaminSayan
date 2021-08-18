@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZaminSayan.
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 I’m currently learning python.
 - 📫 Reach me using Gmail(mohamadzaminsayan@gmail.com) or Linkedin(Mohamad Zamin Sayan).
 
 <!---
