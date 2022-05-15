@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @ZaminSayan.
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning python.
-- 📫 Reach me using Gmail(mohamadzaminsayan@gmail.com) or Linkedin(Mohamad Zamin Sayan).
-
-<!---
-ZaminSayan/ZaminSayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on .
---->
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
