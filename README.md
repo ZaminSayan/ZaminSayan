@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, css and python**
 
-- 📫 How to reach me **| mohamadzaminsayan@gmail.com | | wa.me/+919605731676 |**
+- 📫 How to reach me **| mohamadzaminsayan@gmail.com |**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
