@@ -9,6 +9,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZaminSayan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaminSayan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedMusharaf007&show_icons=true&theme=radical&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammedMusharaf007&theme=matrix&layout=compact" />
+</div>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
